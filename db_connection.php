@@ -1,8 +1,8 @@
 <?php
 // ตั้งค่าการเชื่อมต่อฐานข้อมูล
 $host = "localhost";       
-$username = "coffee";        
-$password = "Coffee@2025";            
+$username = "roof";        
+$password = "";            
 $dbname = "coffeestore";    
 
 
